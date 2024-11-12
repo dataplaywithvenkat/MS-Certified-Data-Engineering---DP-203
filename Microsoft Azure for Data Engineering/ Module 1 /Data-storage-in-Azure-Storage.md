@@ -185,10 +185,6 @@ Azure Table Storage is a NoSQL key-value store optimized for high-speed data ret
 | **Query Capability**  | None                          | Limited                     | None                       | Limited                    |
 | **Data Structure**    | Unstructured                  | File system                 | Key-value messages         | Key-value pairs            |
 
----
-
-## 6. Conclusion
-Azure Storage provides a versatile set of storage solutions to handle various data requirements, from highly scalable object storage to managed file systems and reliable messaging. By leveraging Azure's storage options, you can build efficient, scalable, and secure cloud-based applications tailored to your specific data needs.
 ## Comparison of Azure Storage Services
 
 | **Service**               | **Best For**                  | **Data Type**        | **Max Size**         | **Access Protocol**  | **Query Capabilities** |
@@ -200,7 +196,9 @@ Azure Storage provides a versatile set of storage solutions to handle various da
 
 ---
 
-## Conclusion
+## 6. Conclusion
+Azure Storage provides a versatile set of storage solutions to handle various data requirements, from highly scalable object storage to managed file systems and reliable messaging. By leveraging Azure's storage options, you can build efficient, scalable, and secure cloud-based applications tailored to your specific data needs.
+
 
 Azure Storage Accounts offer versatile and scalable solutions for different data storage needs, from unstructured blobs to structured NoSQL data. Understanding the capabilities, data ingestion methods, and limitations of each service helps organizations optimize their cloud storage strategies effectively.
 
