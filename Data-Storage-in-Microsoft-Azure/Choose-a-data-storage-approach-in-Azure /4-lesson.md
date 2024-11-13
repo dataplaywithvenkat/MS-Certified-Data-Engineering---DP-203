@@ -1,7 +1,5 @@
 # What is NO-SQL/Semi Structured Data
 
-# NoSQL Overview
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Problems with Relational Databases](#problems-with-relational-databases)
