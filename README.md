@@ -2,7 +2,7 @@
 
 # Important Notes
 
-Detailed comparison of **XML**, **JSON**, and **YAML**:
+## Detailed comparison of **XML**, **JSON**, and **YAML**:
 
 | **Feature**              | **XML (Extensible Markup Language)**                                  | **JSON (JavaScript Object Notation)**                               | **YAML (YAML Ain't Markup Language)**                               |
 |--------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|
