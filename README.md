@@ -22,3 +22,18 @@
 | **Use Case**              | Ideal for document formats, complex data structures, and legacy systems. | Common in web APIs, JavaScript applications, data exchange.       | Best for configuration files, logs, and when human readability is a priority. |
 | **Serialization/Deserialization** | Slow serialization and deserialization due to verbose format.    | Fast serialization and deserialization due to simpler format.     | Very fast serialization and deserialization, human-readable format. |
 | **Tool Support**          | Widely supported across many platforms and languages.                | Supported in nearly all modern programming languages.              | Supported in most languages, but less widespread than XML and JSON.  |
+
+---
+
+## Comparison of Azure Storage Services
+
+| **Service**               | **Best For**                  | **Data Type**        | **Max Size**         | **Access Protocol**  | **Query Capabilities** |
+|---------------------------|-------------------------------|----------------------|----------------------|----------------------|------------------------|
+| Azure Blob Storage        | Backups, Unstructured Data    | Binary, Text         | 4.75 TB per blob     | REST API             | No                     |
+| Azure Files               | File Sharing, Lift-and-Shift  | File Data            | 5 TiB per share      | SMB, NFS             | No                     |
+| Azure Queue               | Decoupling Apps, Async Jobs   | Messages             | 64 KB per message    | REST API             | No                     |
+| Azure Table Storage       | NoSQL Storage, Structured Data| Key-Value            | 1 MB per entity      | REST API             | Limited (No Joins)     |
+
+---
+
+
