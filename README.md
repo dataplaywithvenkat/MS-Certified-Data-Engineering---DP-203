@@ -36,4 +36,15 @@
 
 ---
 
+## Comparison: Structured vs Unstructured Data
 
+| **Feature**              | **Structured Data**                               | **Unstructured Data**                           |
+|--------------------------|---------------------------------------------------|-------------------------------------------------|
+| **Schema**               | Predefined at design time                         | Defined at read time                            |
+| **Storage System**       | Relational databases (e.g., Azure SQL Database)   | NoSQL databases (e.g., Azure Cosmos DB)         |
+| **Data Types**           | Tabular data (e.g., integers, strings)            | Binary, images, audio, semi-structured (JSON)   |
+| **Query Language**       | SQL (e.g., T-SQL)                                 | Varies (e.g., NoSQL APIs, LINQ)                 |
+| **Flexibility**          | Low; schema changes are costly                    | High; can adapt to new data types easily        |
+| **Use Cases**            | Financial transactions, customer databases        | Social media data, IoT sensor data              |
+
+---
